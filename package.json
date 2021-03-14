@@ -1,0 +1,22 @@
+{
+  "name": "notatki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGasowski/Notepad-Web-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MGasowski/Notepad-Web-App/issues"
+  },
+  "homepage": "https://github.com/MGasowski/Notepad-Web-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
